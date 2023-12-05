@@ -1,6 +1,6 @@
 # Heisenberg machines with programmable spin-circuits (SPICE codes) 
 
-This *GitHub repository* provides the code used in "**Programmable spin-circuits for the classical Heisenberg model**" for emulating the classical Heisenberg model using spintronics. Simulation files are provided for an example of a 2-LBM system. For more details and source codes, also visit: https://nanohub.org/groups/spintronics
+This *GitHub repository* provides the code used in "**Heisenberg machines with programmable spin-circuits**" for emulating the classical Heisenberg model using spintronics. Simulation files are provided for an example of a 2-LBM system. For more details and source codes, also visit: https://nanohub.org/groups/spintronics
 
 See the link for the arXiv paper: https://arxiv.org/abs/2312.01477.pdf
 
