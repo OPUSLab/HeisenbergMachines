@@ -2,6 +2,8 @@
 
 This *GitHub repository* provides the code used in "**Programmable spin-circuits for the classical Heisenberg model**" for emulating the classical Heisenberg model using spintronics. Simulation files are provided for an example of a 2-LBM system. For more details and source codes, also visit: https://nanohub.org/groups/spintronics
 
+See the link for the arXiv paper: https://arxiv.org/pdf/2312.01477.pdf
+
 
 # Simulation Files
 HSPICE Files:
